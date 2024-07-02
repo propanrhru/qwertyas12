@@ -1,0 +1,47 @@
+img{
+    width :700px;
+    border: 5px solid black;
+    border-radius:1500px;
+    text-align: center;
+}
+body{
+background-color: orange;
+}
+.qw{
+    font-size: 30px;
+    color: aqua;
+}
+.qe{
+    font-size: 31px;
+    color: brown;
+}
+.qr{
+    font-size: 32px;
+    color: lawngreen;
+}
+.qt{
+    font-size: 33px;
+    color: yellow;
+}
+.qy{
+   font-size: 34px; 
+   color:white ;
+}
+ nav li{
+    border: 5px solid teal;
+    border-radius: 10px;
+    text-decoration:none ;
+    margin-bottom: 5px;
+    width: 150px;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+nav a{
+    color: yellow;
+    text-decoration: none;
+}
+footer a{
+    color: red;
+}
